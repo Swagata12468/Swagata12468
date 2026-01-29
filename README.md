@@ -23,6 +23,12 @@
 ---
 
 # 🚀 About Me  
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=940&height=60&lines=Hi+👋,+I'm+Swagata+Singha+Roy;AI+Engineer+%7C+Data+Scientist+%7C+Full-Stack+Developer;Building+AI+Agents+%26+End-to-End+ML+Systems" alt="Typing Animation" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swagata12468&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
+</p>
 - 🤖 AI/ML Engineer specializing in **GenAI, LLMs, NLP, and ML Engineering**  
 - 🧠 Data Scientist with expertise in **Prediction, Analytics & Model Deployment**  
 - 💼 Full-Stack Developer building **AI-powered web & mobile apps**  
