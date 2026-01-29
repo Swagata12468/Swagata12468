@@ -45,6 +45,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -56,18 +57,9 @@
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=swagata12468&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
-### 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph/3d-contrib/swagata12468.svg" width="100%" alt="3D Contribution Graph" />
-</p>
-
 ---
 
-## 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swagata12468&theme=tokyonight&no-bg=true&margin-w=10" alt="Trophies" />
-</p>
-
+## 🏆 Connect & Links
 <p align="center">
   <a href="https://www.linkedin.com/in/swagatasingharoy39" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -76,6 +68,7 @@
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="45"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
