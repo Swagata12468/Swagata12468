@@ -8,9 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" alt="Divider GIF" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+Full-Stack+Developer;AI+Engineer+%7C+GenAI+%26+MLOps;I+build+AI+Agents+and+Scalable+Systems;Welcome+to+My+Tech+Universe!+🚀" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swagata12468&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
