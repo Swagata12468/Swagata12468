@@ -18,11 +18,12 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Mentora360** (Career + Mental Wellness AI) & **Stock Market GenAI Agent**
-- 🤖 Expert in **GenAI, LLMs, NLP, and MLOps automation**
+- 🔭 Working on **Mentora360** (Career + Mental Wellness AI) & **Stock Market GenAI Agent**
+- 🤖 Specialized in **GenAI, LLMs, NLP, MLOps automation**
 - 💻 Full-Stack Developer building **AI-powered apps** (React, Next.js, Flutter)
-- 🚀 Skilled in **Docker, DevOps, CI/CD, Cloud**
-- 📧 Reach me: **swagatasingharoy12468@gmail.com**
+- 🧠 Skilled in **Python, ML/DL, Data Science**
+- ☁️ DevOps knowledge in **Docker, CI/CD, Cloud**
+- 📧 Email: **swagatasingharoy12468@gmail.com**
 
 ---
 
@@ -49,15 +50,15 @@
 
 ## 📊 GitHub Analytics  
 
-<!-- 📈 Stats -->
+<!-- 📈 GitHub Stats & Top Languages -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=swagata12468&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagata12468&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swagata12468&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swagata12468&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<!-- 🔥 Streak -->
+<!-- 🔥 GitHub Streak -->
 <p align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=swagata12468&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="200" src="https://streak-stats.demolab.com?user=swagata12468&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <!-- 🧊 3D Contribution Graph -->
@@ -67,11 +68,13 @@
 
 ---
 
-## 🔗 Connect With Me  
+## 🔗 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/swagatasingharoy39" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
+
   <a href="https://www.kaggle.com/swagatasingharoy002" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="45"/>
   </a>
@@ -80,6 +83,7 @@
 ---
 
 ## ✨ Quote  
+
 <p align="center">
   <i>"Build. Learn. Break. Repeat — that’s how great engineers grow."</i><br><br>
   <b>⭐ If you like my work, consider giving a star to my repositories!</b>
