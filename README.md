@@ -51,10 +51,17 @@
 ## 📊 GitHub Analytics  
 
 <!-- 📈 GitHub Stats & Top Languages -->
+
+<!-- FIXED GITHUB STATS -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swagata12468&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swagata12468&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swagata12468&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swagata12468&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img height="200" src="https://streak-stats.demolab.com?user=swagata12468&theme=tokyonight&hide_border=false" />
+</p>
+
 
 <!-- 🔥 GitHub Streak -->
 <p align="center">
