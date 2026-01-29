@@ -70,16 +70,33 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/swagatasingharoy39" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
+<p align="left">
 
-  <a href="https://www.kaggle.com/swagatasingharoy002" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="45"/>
-  </a>
+<a href="https://www.linkedin.com/in/swagatasingharoy39" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+
+<a href="https://www.kaggle.com/swagatasingharoy002" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="35"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/swagatasingharo1" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35"/>
+</a>
+
+<a href="https://leetcode.com/u/swagata0002/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35"/>
+</a>
+
+<a href="https://www.hackerearth.com/@swagatasingharoy12468" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="35"/>
+</a>
+
+<a href="https://discord.gg/mcNVHjJY" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="35"/>
+</a>
+
 </p>
-
 ---
 
 ## ✨ Quote  
