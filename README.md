@@ -70,7 +70,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/swagatasingharoy39" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
