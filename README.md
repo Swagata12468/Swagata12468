@@ -1,112 +1,85 @@
-<h1 align="center">Hi 👋, I'm Swagata Singha Roy</h1>
-<h3 align="center">Data Scientist • Full Stack Developer • AI/ML & GenAI Engineer</h3>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=940&height=60&lines=Hi+👋,+I'm+Swagata+Singha+Roy;AI+Engineer+%7C+Data+Scientist+%7C+Full-Stack+Developer;Building+AI+Agents+%26+End-to-End+ML+Systems" alt="Typing Animation" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swagata12468&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=swagata12468&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🔭 I work on **AI, GenAI, NLP, Full-Stack Development, and MLOps**  
-- 🤖 Passionate about **AI Integration, Automation, and Model Deployment**  
-- 📈 Always learning **Data Engineering, Cloud, LLMs, and Advanced ML**  
-- 💬 Ask me about **Python, ML, Deep Learning, NLP, Docker, CI/CD, and APIs**  
-- 📫 Reach me: **swagatasingharoy12468@gmail.com**
+# 🚀 About Me  
+- 🤖 AI/ML Engineer specializing in **GenAI, NLP, and LLM-based systems**  
+- 🎯 Full Stack Developer building **end-to-end applications with AI integration**  
+- ⚡ Passionate about **automation, model deployment, and cloud engineering**  
+- 📚 Currently learning **advanced LLM fine-tuning & scalable ML pipelines**  
+- 📩 Email: **swagatasingharoy12468@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-
-<a href="https://www.linkedin.com/in/swagatasingharoy39" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://www.kaggle.com/swagatasingharoy002" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/swagatasingharo1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"/>
-</a>
-
-<a href="https://leetcode.com/u/swagata0002/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
-</a>
-
-<a href="https://www.hackerearth.com/@swagatasingharoy12468" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="40"/>
-</a>
-
-</p>
-
----
-
-## 🛠️ Skills & Tools
-
-### **💻 Programming**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,kotlin" height="45"/>
-</p>
-
-### **📊 Data Science & AI**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" height="45"/>
-  <img src="https://numpy.org/images/logo.svg" height="45"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" height="45"/>
-</p>
-
-### **🌐 Web & App Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,flutter,html,css" height="45"/>
-</p>
-
-### **🗄️ Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" height="45"/>
-</p>
-
-### **☁️ DevOps / Cloud / Big Data**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,gcp,linux" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="45"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+# 🌐 Connect With Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swagata12468&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagata12468&layout=compact&theme=tokyonight" height="180"/>
+ <a href="https://www.linkedin.com/in/swagatasingharoy39" target="_blank">
+   <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+ </a>
+ <a href="https://www.kaggle.com/swagatasingharoy002" target="_blank">
+   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="50" />
+ </a>
+ <a href="https://leetcode.com/u/swagata0002/" target="_blank">
+   <img src="https://skillicons.dev/icons?i=leetcode" height="50" />
+ </a>
+ <a href="https://www.hackerrank.com/profile/swagatasingharo1" target="_blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" />
+ </a>
 </p>
+
+---
+
+# ⚡ Tech Stack (Animated)
+
+### 🧠 **AI | ML | Data Science**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" height="50" />
+  <img src="https://numpy.org/images/logo.svg" height="50"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="50"/>
+</p>
+
+### 🌐 **Full-Stack Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,flutter" height="50" />
+</p>
+
+### 🗄️ **Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" height="50" />
+</p>
+
+### ☁️ **Cloud | DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,gcp,linux" height="50" />
+</p>
+
+---
+
+# 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagata12468&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swagata12468&show_icons=true&theme=tokyonight&count_private=true&border_radius=20" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagata12468&layout=compact&theme=tokyonight&border_radius=20" height="180"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🔥 GitHub Streak (Animated)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swagata12468&theme=tokyonight&margin-w=15"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagata12468&theme=tokyonight&border_radius=20" height="200"/>
 </p>
 
 ---
 
-## ⭐ Featured Projects
-- 🔹 **Mentora360 – Career & Mental Wellness AI**
-- 🔹 **AI Voice Assistant (Python + OpenAI + TTS/STT)**
-- 🔹 **Stock Market GenAI Agent**
-- 🔹 **Tulaipanji Rice Research Q&A System**
-- 🔹 **Dockerized ML Pipeline with Flask API**
+# 🧊 **3D GitHub Contribution Graph**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph/3d-contrib/your-username.svg" width="800"/>
+</p>
 
----
-
-## 💬 Quote I Believe
-<p align="center"><i>"Build. Learn. Break. Repeat – that’s how great engineers grow."</i></p>
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**  
+> ❗ Replace `your-username` with **swagata12468**  
+Final link will be:  
