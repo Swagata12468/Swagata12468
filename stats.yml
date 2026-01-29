@@ -1,0 +1,22 @@
+name: Generate Github Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: generated/overview.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: generated/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: languages
